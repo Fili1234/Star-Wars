@@ -1,0 +1,48 @@
+#Title{
+    height: 650px;
+    width: 100%;
+}
+.primeiro{
+    text-align: center;
+    background-color: black;
+    color: goldenrod;
+    display: block;
+    top: 25px;
+    padding-top: 5px;
+    height: 115px;
+    width: 100%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.btm{
+    color: goldenrod;
+    text-decoration: none;
+}
+.filmes{
+    color: white;
+    text-decoration: none;
+}
+.segundo{
+    color: white;
+    background-color:black;
+    padding-top: 5px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#species{
+    height: 500px;
+}
+.d-block{
+    width: 100%;
+    height: 500px;
+
+}
+.FILMES{
+    background-color: black;
+    color: darkgoldenrod;
+}
+.img{
+    height:500px;
+    width: 1000px;
+    
+}
